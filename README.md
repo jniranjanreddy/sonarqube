@@ -1,6 +1,7 @@
 # sonarqube
 ## Source: https://linux.how2shout.com/install-sonarqube-on-ubuntu-20-04-18-04-server/
-## jira integration.
+## https://www.fosstechnix.com/how-to-install-sonarqube-on-ubuntu-20-04/  - 9.9
+## wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.9.0.65466.zip
 
 ## Kernel parameters are important
 

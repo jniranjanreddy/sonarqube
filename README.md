@@ -28,3 +28,4 @@ drwxr-xr-x 11 sonarh2s sonarh2s  4096 Jul 27  2021 ../
 -rw-r--r--  1 sonarh2s sonarh2s 34033 Dec  5 10:24 web.log
 
 ```
+![image](https://github.com/jniranjanreddy/sonarqube/assets/83489863/4fe89ab1-9686-4d36-8c93-e7c11433d750)

@@ -3,6 +3,13 @@
 ## https://www.fosstechnix.com/how-to-install-sonarqube-on-ubuntu-20-04/  - 9.9
 ## wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.9.0.65466.zip
 
+## Notes
+```
+
+```
+
+
+
 ## Kernel parameters are important
 
 root@devops-VirtualBox:/opt/sonarqube/logs# sysctl -a | egrep -i "fs.file-max|vm.max_map_count"

@@ -36,3 +36,16 @@ drwxr-xr-x 11 sonarh2s sonarh2s  4096 Jul 27  2021 ../
 
 ```
 ![image](https://github.com/jniranjanreddy/sonarqube/assets/83489863/4fe89ab1-9686-4d36-8c93-e7c11433d750)
+
+
+## How to add report generator
+```
+This was tested for version 9.9
+download below jar under /opt/sonarqube/extensions/plugins and restart service
+wget https://github.com/cnescatlab/sonar-cnes-report/releases/download/4.2.0/sonar-cnes-report-4.2.0.jar
+```
+![image](https://github.com/jniranjanreddy/sonarqube/assets/83489863/ad0e75b9-98b0-4db8-9d58-07811020e738)
+
+
+
+

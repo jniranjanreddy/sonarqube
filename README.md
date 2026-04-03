@@ -2,7 +2,7 @@
 ## Source: https://linux.how2shout.com/install-sonarqube-on-ubuntu-20-04-18-04-server/
 ## https://www.fosstechnix.com/how-to-install-sonarqube-on-ubuntu-20-04/  - 9.9
 ## wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.9.0.65466.zip
-
+## Scanner  -https://docs.sonarsource.com/sonarqube-server/10.8/analyzing-source-code/scanners/sonarscanner
 ## Tutorials
 ```
 https://www.youtube.com/watch?v=y8UF7rgtDEo&list=PLDhScTEBdP8ym3PaMkkTVuaaVHV2ktI0j
